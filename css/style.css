@@ -41,7 +41,7 @@ body{
 .main__text li{
 	margin-bottom: 4px;
 	padding-left: 32px;
-	background: url('/img/icons/check.svg') 0 5px no-repeat;
+	background: url('/img/icons/check.png') 0 5px no-repeat;
 }
 .quoute {
 	background: url('/img/icons/braces.png') 0 0 no-repeat;
