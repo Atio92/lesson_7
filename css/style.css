@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+body{
+	font-family: "Lato", sans-serif;
+	color: #424551;
+}
+[class*="__container"]{
+	max-width: 1230px;
+	margin: 0 auto;
+}
+.index__title{
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+	margin-bottom: 26px;
+}
+.index__image{
+	text-align: center;
+	margin-bottom: 60px;
+}
+.index__image img{
+	max-width: 100%;
+}
+.index__text{
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 24px;
+}
+.main__text p{
+	margin-bottom: 26px;
+}
+.main__text{
+	line-height: 160%;
+	margin-bottom: 48px;
+}
+.main__text ul{
+	margin-bottom: 24px;
+}
+.main__text li{
+	margin-bottom: 4px;
+	padding-left: 32px;
+	background: url(/img/icons/check.svg) 0 5px no-repeat;
+}
+.quoute {
+	background: url(/img/icons/braces.png) 0 0 no-repeat;
+	padding-left: 58px;
+	margin-bottom: 48px;
+}
+[class*="__container"] {
+	max-width: 1230px;
+	margin: 0 auto;
+}
+.main{
+	margin: 150px;
+	background: url(/img/image.png) 50% 50% / contain no-repeat fixed;
+}
+.main-middle p{
+	font-size: 100px;
+	font-weight: 900;
+	border-radius: 30px;
+	background: linear-gradient(0deg, rgba(0, 7, 255, 1) 0%, rgba(255, 254, 0, 1) 100%);
+	margin-bottom: 50px;
+	text-align: center;
+}
+.repeat p{
+	background: url(/img/repeat.jpeg)0 0 / 150px repeat;
+	color: black;
+	font-size: 100px;
+	font-weight: 900;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.multi-bgc{
+	min-width: 750px;
+	min-height: 300px;
+	background: url(/img/image.png) 50% 120px / 250px no-repeat, url(/img/image.png) 50% 60px / 500px no-repeat, url(/img/repeat.jpeg)0 0 / 150px repeat;
+	font-size: 50px; 
+	color: white;
+	text-align: center;
+}
