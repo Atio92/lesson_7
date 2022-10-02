@@ -65,7 +65,7 @@ body{
 	text-align: center;
 }
 .repeat p{
-	background: url('/img/repeat.jpeg')0 0 / 150px repeat;
+	background: url('/img/repeat.jpeg') 0 0 / 150px repeat;
 	color: black;
 	font-size: 100px;
 	font-weight: 900;
