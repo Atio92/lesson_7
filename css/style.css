@@ -41,10 +41,10 @@ body{
 .main__text li{
 	margin-bottom: 4px;
 	padding-left: 32px;
-	background: url('/img/icons/check.png') 0 5px no-repeat;
+	background: url('../img/icons/check.png') 0 5px no-repeat;
 }
 .quoute {
-	background: url('/img/icons/braces.png') 0 0 no-repeat;
+	background: url('../img/icons/braces.png') 0 0 no-repeat;
 	padding-left: 58px;
 	margin-bottom: 48px;
 }
@@ -54,7 +54,7 @@ body{
 }
 .main{
 	margin: 150px;
-	background: url('/img/image.png') 50% 50% / contain no-repeat fixed;
+	background: url('../img/image.png') 50% 50% / contain no-repeat fixed;
 }
 .main-middle p{
 	font-size: 100px;
@@ -65,7 +65,7 @@ body{
 	text-align: center;
 }
 .repeat p{
-	background: url('/img/repeat.jpeg') 0 0 / 150px repeat;
+	background: url('../img/repeat.jpeg') 0 0 / 150px repeat;
 	color: black;
 	font-size: 100px;
 	font-weight: 900;
@@ -75,7 +75,7 @@ body{
 .multi-bgc{
 	min-width: 750px;
 	min-height: 300px;
-	background: url('/img/image.png') 50% 120px / 250px no-repeat, url('/img/image.png') 50% 60px / 500px no-repeat, url('/img/repeat.jpeg')0 0 / 150px repeat;
+	background: url('../img/image.png') 50% 120px / 250px no-repeat, url('../img/image.png') 50% 60px / 500px no-repeat, url('../img/repeat.jpeg')0 0 / 150px repeat;
 	font-size: 50px; 
 	color: white;
 	text-align: center;
